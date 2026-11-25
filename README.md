@@ -1,0 +1,1 @@
+# staydesk-hotel-mvp
